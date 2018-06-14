@@ -1,5 +1,10 @@
 # jquery.collapsible.js
 
+## Install
+
+`npm install @ak1ra/jquery-collapsible`
+
+
 ## Basic setup
 ```` javascript
 $('.is-collapsible').collapsible({
