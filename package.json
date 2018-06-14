@@ -1,8 +1,15 @@
 {
-  "name": "jquery.collapsible",
+  "name": "jquery-collapsible",
   "title": "jQuery collapsble plugin",
   "description": "A package of re-usable custom plugins and drupal behaviors.",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dirkpeter/jquery-collapsible.git"
+  },
+  "author": "https://github.com/dirkpeter/graphs/contributors",
+  "license": "MIT",
+  "main": "src/jquery.collapsible.js",
   "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^7.0.1",
