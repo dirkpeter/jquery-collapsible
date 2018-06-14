@@ -1,7 +1,7 @@
 {
   "name": "@ak1ra/jquery-collapsible",
   "title": "jQuery collapsble plugin",
-  "description": "A package of re-usable custom plugins and drupal behaviors.",
+  "description": "A jQuery collapsble plugin",
   "version": "1.0.0",
   "repository": {
     "type": "git",
